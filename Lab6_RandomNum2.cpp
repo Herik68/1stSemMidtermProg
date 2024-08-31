@@ -77,7 +77,7 @@ int main(){
     std::cout<<setw(15)<< "Sum: "<<fixed<<setprecision(4)<< total << endl
         <<setw(15)<< "Average: "<<fixed<<setprecision(4)<< average<< endl
         <<setw(15)<< "StandardDev: "<<fixed<<setprecision(4)<<standardDeviation<<endl;
-    return 0;
+    return 0;//////////////////////
 }
 
 
