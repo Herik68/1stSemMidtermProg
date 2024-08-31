@@ -1,3 +1,0 @@
-# C-LABS
-# BasicProgC-
-# BasicProgC-

@@ -1,0 +1,6 @@
+
+#ignore all.txt files
+*.txt
+README.md
+output
+h.cpp
